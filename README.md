@@ -1,1 +1,2 @@
-"# snake-game" 
+# SNAKE GAME
+made with a tutorial!
